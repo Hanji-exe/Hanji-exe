@@ -1,10 +1,9 @@
-# Hello, Dev! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Mentor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hey there! I am Fahad Hadji Esmael, you can call me **Hanji**,  
-an IT student at the Polytechnic University of the Philippines – Manila who loves everything about tech.  
-My interests span frontend, backend, and cloud development, as well as data science and UI/UX design.  
-I’m currently expanding my skills in software development and exploring specific programming languages.  
-I love collaborating with others, sharing what I learn, and growing as both a developer and a community-driven tech enthusiast.
+I am Fahad Hadji Esmael, you can call me **Hanji**,  
+IT student by day, AI tinkerer by night  | 2nd yr @ PUP Manila slowly becoming an AI Solutions Architect (or so I tell myself). I break things with Python & JS so LLMs can fix them. Currently developing (cloning)  basic stuff. Open to internships or Hire me before I'm expensive 🚀 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Are+you+Human%3F;Beep+Boop+%F0%9F%A4%96" /> 
 
 ---
 
@@ -18,8 +17,13 @@ I love collaborating with others, sharing what I learn, and growing as both a de
 
 #
 <h3 align="center"> Tools</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,vite,figma,vscode,vercel,github,discord,gmail,linkedin,twitter,instagram" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,vscode,aws,fastapi,notion" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=black" />
 </p>
