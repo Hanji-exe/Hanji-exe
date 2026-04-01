@@ -14,11 +14,10 @@ jobs:
         with:
           github_user_name: Hanji-exe
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg
-          color_snake: "#00F7FF"
-          color_dots: "#161b22,#073a3d,#0c5a61,#117a85,#00F7FF"
+            dist/github-snake.svg?color_snake=#00F7FF&color_dots=#161b22,#073a3d,#0c5a61,#117a85,#00F7FF
+            dist/github-snake-dark.svg?color_snake=#00F7FF&color_dots=#161b22,#073a3d,#0c5a61,#117a85,#00F7FF
         env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Snake to Output Branch
