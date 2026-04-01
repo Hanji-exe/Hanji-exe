@@ -8,11 +8,9 @@ IT student by day, AI tinkerer by night  | 2nd yr @ PUP Manila slowly becoming a
 ---
 
 <h3 align="center"> GitHub’s contribution snake got hungry and ate all my tiles 🐍 </h3>
-
-<div align="center">
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KyneLaggui/KyneLaggui/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hanji-exe/Hanji-exe/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 #
