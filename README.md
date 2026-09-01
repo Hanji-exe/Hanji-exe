@@ -1,7 +1,7 @@
 # Hello, Mentor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Fahad Hadji Esmael, you can call me **Hanji**,  
-IT student by day, AI tinkerer by night | 2nd yr @ PUP Manila slowly becoming a Flight Operations Systems Analyst (or so I tell myself). I break things with Python & JS so LLMs can fix them. Currently developing aviation-specific IT projects while geeking out on AWS and computer networking. Open to internships or hire me before I'm expensive 🚀
+IT student by day, AI tinkerer by night | 2nd yr @ PUP Manila slowly becoming a Systems Analyst (or so I tell myself). I break things with Python & JS so LLMs can fix them. Currently developing aviation-specific IT projects while geeking out on AWS and computer networking. Open to internships or hire me before I'm expensive 🚀
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Are+you+Human%3F;Beep+Boop+%F0%9F%A4%96" /> 
 
